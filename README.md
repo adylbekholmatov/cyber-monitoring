@@ -7,3 +7,6 @@
 - Nginx
 - PHP / PHP-FPM
 - MySQL
+- Git
+
+Следующий этап проекта — Git и автоматизация.
